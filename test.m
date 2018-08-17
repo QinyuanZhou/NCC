@@ -8,3 +8,4 @@ src=rgb2gray(src_rgb);
 T=im2double(template);
 I=im2double(src);
 
+%qinyuan
